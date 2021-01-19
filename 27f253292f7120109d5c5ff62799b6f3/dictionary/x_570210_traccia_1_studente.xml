@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Studente" max_length="40" name="x_570210_traccia_1_studente" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cognome" max_length="40" name="cognome" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="corso studi" max_length="40" name="corso_studi" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="data nascita" max_length="40" name="data_nascita" read_only="true" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Matricola" max_length="40" name="matricola" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+    </element>
+</database>

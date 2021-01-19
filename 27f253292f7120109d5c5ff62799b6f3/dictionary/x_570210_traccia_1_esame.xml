@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="esame" max_length="40" name="x_570210_traccia_1_esame" type="collection">
+        <element label="cfu" max_length="100" name="cfu" type="string"/>
+        <element label="cod esame" max_length="100" name="cod_esame" type="string"/>
+        <element label="nome esame" max_length="1000" name="nome_esame" type="string"/>
+        <element label="nome professore" max_length="100" name="nome_professore" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

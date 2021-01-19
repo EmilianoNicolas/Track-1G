@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="esame_studente" max_length="40" name="x_570210_traccia_1_esame_studente" type="collection">
+        <element label="cod esame" max_length="32" name="cod_esame" reference="x_570210_traccia_1_esame" type="reference"/>
+        <element label="matricola studente" max_length="32" name="matricola_studente" reference="x_570210_traccia_1_studente" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="superato" max_length="40" name="superato" type="boolean"/>
+        <index name="index">
+            <element name="matricola_studente"/>
+        </index>
+        <index name="index2">
+            <element name="cod_esame"/>
+        </index>
+    </element>
+</database>

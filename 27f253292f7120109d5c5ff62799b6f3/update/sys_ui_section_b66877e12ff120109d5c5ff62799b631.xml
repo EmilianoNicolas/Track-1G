@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b66877e12ff120109d5c5ff62799b631" sys_domain="global" table="x_570210_traccia_1_studente" version="3" view="view_del_prof">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>fe6877e12ff120109d5c5ff62799b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corso_studi</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>726877e12ff120109d5c5ff62799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nome</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>f26877e12ff120109d5c5ff62799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>766877e12ff120109d5c5ff62799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_nascita</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>f66877e12ff120109d5c5ff62799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>matricola</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>7a6877e12ff120109d5c5ff62799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cognome</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:54</sys_created_on>
+            <sys_id>fa6877e12ff120109d5c5ff62799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570210_traccia_1_studente" sys_domain="global" view="f66877e12ff120109d5c5ff62799b62d">b66877e12ff120109d5c5ff62799b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_570210_traccia_1_studente</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 13:06:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b66877e12ff120109d5c5ff62799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570210_traccia_1_studente</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Traccia 1" source="x_570210_traccia_1">27f253292f7120109d5c5ff62799b6f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Traccia 1">27f253292f7120109d5c5ff62799b6f3</sys_scope>
+            <sys_update_name>sys_ui_section_b66877e12ff120109d5c5ff62799b631</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 13:06:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="view del prof" name="view_del_prof">f66877e12ff120109d5c5ff62799b62d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
